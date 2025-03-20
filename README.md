@@ -4,5 +4,5 @@ Kavya Sridhar                     
 Shreyash Reddy  
 Susmit Singh
 
-[Video Link]([https://example.com](https://drive.google.com/file/d/1ZF9QO7tnyXrrVU-HLYtKCpzHmV4nDAQE/view?usp=sharing))
+[Video Link](https://drive.google.com/file/d/1ZF9QO7tnyXrrVU-HLYtKCpzHmV4nDAQE/view?usp=sharing)
 
