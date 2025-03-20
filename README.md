@@ -1,5 +1,5 @@
 # Crime-Analytics-Neo4J-PSQL-Integration
 Team Members:
 Kavya Sridhar                            
-Shreyash Reddy
+Shreyash Reddy
 Susmit Singh
