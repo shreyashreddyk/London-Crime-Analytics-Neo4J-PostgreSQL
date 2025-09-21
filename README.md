@@ -49,8 +49,8 @@ This project is a testament to a deep and practical mastery of advanced data eng
 
 
 # Team Members:  
-Kavya Sridhar                            
-Shreyash Reddy  
+Shreyash Kondakindi
+Kavya Sridhar                             
 Susmit Singh
 
 [Video Link](https://drive.google.com/file/d/1ZF9QO7tnyXrrVU-HLYtKCpzHmV4nDAQE/view?usp=sharing)
