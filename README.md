@@ -48,8 +48,8 @@ This project is a testament to a deep and practical mastery of advanced data eng
   * **Bespoke ETL Pipeline Orchestration (Python)**: Development of a robust Python-based ETL engine to manage the intricate flow of data between disparate database systems. Proficient with core data libraries and database drivers (`psycopg2`, `neo4j`).
 
 
-# Team Members:  
-Shreyash Kondakindi
+# Team Members: 
+Shreyash Kondakindi                             
 Kavya Sridhar                             
 Susmit Singh
 
